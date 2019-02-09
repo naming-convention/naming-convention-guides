@@ -1,0 +1,20 @@
+{
+  "title": "Naming Convention",
+  "plugins": [
+    "github-edit",
+    "sitemap-general",
+    "smart-nav-collapse"
+  ],
+  "pluginsConfig": {
+    "github-edit": {
+        "repo": "naming-convention/NamingConvention-Guides",
+        "branch": "master"
+    },
+    "sitemap-general": {
+      "prefix": "https://namingconventions.org/"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  }
+}

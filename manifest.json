@@ -1,0 +1,13 @@
+{
+  "name": "Naming Conventions",
+  "short_name": "NamingConventions",
+  "lang": "us-EN",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#fafafa",
+  "icons": [
+    {
+      "src": "icon.png"
+    }
+  ]
+}

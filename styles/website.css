@@ -1,0 +1,6 @@
+.fa-pencil-square-o::after {
+  content: 'Edit on Github';
+  text-transform: initial;
+  font-family: sans-serif;
+  padding-left: 4px;
+}
