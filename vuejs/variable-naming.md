@@ -1,0 +1,1 @@
+# VueJS Naming Convention > Variables Naming

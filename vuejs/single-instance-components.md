@@ -1,0 +1,1 @@
+# VueJS Naming Convention > Single Instance Components Naming

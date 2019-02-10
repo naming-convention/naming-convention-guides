@@ -1,0 +1,1 @@
+# VueJS Naming Convention > Smart vs Dumb Components Naming
