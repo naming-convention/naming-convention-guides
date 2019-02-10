@@ -1,10 +1,10 @@
 # PHP Naming Convention
 List of covered sections:
-* [Class Naming](../php/class-naming.html)
+* [Class Naming](../php/class-naming.md)
 * [Constant Naming](../php/constant-name.md)
-* [Interface Naming](../php/interface-naming.html)
-* [Method Naming](../php/method-naming.html)
-* [Variable Naming](../php/variable-naming.html)
-* [Namespaces Naming](../php/namespaces-naming.html)
+* [Interface Naming](../php/interface-naming.md)
+* [Method Naming](../php/method-naming.md)
+* [Variable Naming](../php/variable-naming.md)
+* [Namespaces Naming](../php/namespaces-naming.md)
 
-Missing something? Please contribute here by reading [this guide](../docs/CONTRIBUTING.html).
+Missing something? Please contribute here by reading [this guide](../docs/CONTRIBUTING.md).

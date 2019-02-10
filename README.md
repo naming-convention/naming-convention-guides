@@ -12,6 +12,7 @@ We accept recommendations from all enthusiastic who care about the quality. The 
 * [Git](../git/)
 * [Java](../java/)
 * [PHP](../php/)
+* [VueJS](../vuejs/)
 
 ## Contributions
 Help us create the better conventions with your contributions. Simply read our [Contribution Guide](../meta/contribution-guide.html) and get started!
