@@ -3,15 +3,21 @@
   "plugins": [
     "github-edit",
     "sitemap-general",
-    "smart-nav-collapse"
+    "smart-nav-collapse",
+    "githubcontributors"
   ],
   "pluginsConfig": {
     "github-edit": {
-        "repo": "naming-convention/NamingConvention-Guides",
+        "repo": "naming-convention/naming-convention-guide",
         "branch": "master"
     },
     "sitemap-general": {
       "prefix": "https://namingconventions.org/"
+    },
+    "githubcontributors": {
+      "githubOwner": "naming-convention",
+      "githubRepository": "naming-convention-guide",
+      "contributorWidth": "100%"
     }
   },
   "styles": {

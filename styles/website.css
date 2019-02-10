@@ -4,3 +4,17 @@
   font-family: sans-serif;
   padding-left: 4px;
 }
+
+.contributor-avatar {
+  width: 40px;
+  height: 40px;
+  margin: 8px;
+}
+
+.contributor-avatar img {
+  border-radius: 20px;
+}
+
+.contributor-data {
+  display: none;
+}

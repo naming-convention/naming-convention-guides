@@ -15,3 +15,6 @@ We accept recommendations from all enthusiastic who care about the quality. The 
 
 ## Contributions
 Help us create the better conventions with your contributions. Simply read our [Contribution Guide](../meta/contribution-guide.html) and get started!
+
+{% GitHubContributors %}
+{% endGitHubContributors %}

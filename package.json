@@ -14,6 +14,7 @@
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-github-edit": "^1.1.0",
+    "gitbook-plugin-githubcontributors": "^0.2.1",
     "gitbook-plugin-sitemap-general": "^0.1.1",
     "gitbook-plugin-smart-nav-collapse": "^0.1.2",
     "sw-precache": "^5.2.1"
