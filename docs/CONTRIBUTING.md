@@ -11,9 +11,10 @@ All contributors must understand that naming convention is a highly opinionted s
 ## Pull Request Rules
 
 Before making a pull request, make sure that your PR complies with the rules below:
-1. Less is more. Use phrases over lenghty sentences (e.g. instead of using "It should begin with a uppercase letter" use "Begin with uppercase letter").
-2. Use clear but comprehensive examples. For instance, for Java method name use something like getEmployee which is multi-word to better represent the camelCase factor.
-3. While making a pull request, please add a clear comment the reason behind changes. Especially, for major changes, please state why proposing the change e.g. why it's a naming convention best practice.
+1. The content should be original. In other words, no content including examples should be directly copied from another website. Besides the fact that we might not have a permission to use contents from other websites, this might damage our SEO as Google prefers original contents.
+2. Less is more. Use phrases over lenghty sentences (e.g. instead of using "It should begin with a uppercase letter" use "Begin with uppercase letter").
+3. Use clear but comprehensive examples. For instance, for Java method name use something like getEmployee which is multi-word to better represent the camelCase factor.
+4. While making a pull request, please add a clear comment the reason behind changes. Especially, for major changes, please state why proposing the change e.g. why it's a naming convention best practice.
 
 ## Minor Edits
 
