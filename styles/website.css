@@ -8,7 +8,6 @@
 .contributor-avatar {
   width: 40px;
   height: 40px;
-  margin: 8px;
 }
 
 .contributor-avatar img {
@@ -17,4 +16,8 @@
 
 .contributor-data {
   display: none;
+}
+
+#GitHubContributors div {
+  background-color: #fff !important;
 }

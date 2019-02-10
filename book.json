@@ -17,7 +17,7 @@
     "githubcontributors": {
       "githubOwner": "naming-convention",
       "githubRepository": "naming-convention-guide",
-      "contributorWidth": "100%"
+      "contributorWidth": "40px"
     }
   },
   "styles": {
