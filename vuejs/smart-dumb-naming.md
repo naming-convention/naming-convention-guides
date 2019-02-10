@@ -12,7 +12,7 @@ Smart components sometimes called contrainer are the one that handles state chan
 - For example "SubmitButton", "UserDeleteButton", "IncrementButton"
 - Implements methods or are connected with the Vuex actions
 
-```javascript
+```vue
 <template>
   <div class="increment-button" v-on:click="increment">
     <base-button>{{ number }} Increment</base-button>
