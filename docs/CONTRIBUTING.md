@@ -25,7 +25,7 @@ For minor edits (e.g. fixing formatting, typo, etc.), we recommend using `Edit o
 
 For major edits, like adding a new section within an existing topic, either fork the repo and make a pull request or edits using the desktop app [gitbook-editor](https://legacy.gitbook.com/editor).
 
-For adding a new topic, please submit a request in the [feature request](https://github.com/naming-convention/NamingConvention-Guides/issues/) section.
+For adding a new topic, please submit a request in the [feature request](https://github.com/naming-convention/naming-convention-guides/issues/) section.
 
 # Workflow
 
@@ -41,9 +41,9 @@ Please feel free to open a [github issue](https://github.com/wpveda/book/issues)
 # Instruction For Running Locally
 
 1. Install Node.js on your machine: [follow this on ubuntu](https://rtcamp.com/tutorials/nodejs/node-js-npm-install-ubuntu/) or use `brw install nodejs npm` on mac.
-2. Fork [https://github.com/naming-convention/NamingConvention-Guides/](https://github.com/naming-convention/NamingConvention-Guides/) on GitHub.
+2. Fork [https://github.com/naming-convention/naming-convention-guides/](https://github.com/naming-convention/naming-convention-guides/) on GitHub.
 3. Clone your forked repo -  `git clone <forked-repo-url>`
-4. Change directory to gitbook - `cd NamingConvention-Guides` \(assuming your forked repo is also named as `NamingConvention-Guides`\)
+4. Change directory to gitbook - `cd naming-convention-guides` \(assuming your forked repo is also named as `naming-convention-guides`\)
 5. Install npm depencies - `npm install`
 6. Preview gitbook - `npm start` and open [http://localhost:4000](http://localhost:4000)
 

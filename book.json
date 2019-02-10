@@ -8,7 +8,7 @@
   ],
   "pluginsConfig": {
     "github-edit": {
-        "repo": "naming-convention/naming-convention-guide",
+        "repo": "naming-convention/naming-convention-guides",
         "branch": "master"
     },
     "sitemap-general": {
@@ -16,7 +16,7 @@
     },
     "githubcontributors": {
       "githubOwner": "naming-convention",
-      "githubRepository": "naming-convention-guide",
+      "githubRepository": "naming-convention-guides",
       "contributorWidth": "40px"
     }
   },
