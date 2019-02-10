@@ -4,7 +4,7 @@ List of covered sections:
 * [Smart vs Dumb components Naming](../vuejs/smart-dumb-naming.md)
 * [Single instance components Naming](../vuejs/single-instance-components.md)
 * [Components files Naming](../vuejs/components-files-naming.md)
-* [DOM Templates components Naming](../vuejs/dom-templates-components-naming.md)
+* [Templates components Naming](../vuejs/templates-components-naming.md)
 * [Constants naming](../vuejs/constants-naming.md)
 * [Method Naming](../vuejs/method-naming.md)
 * [Variable Naming](../vuejs/variable-naming.md)
