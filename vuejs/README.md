@@ -9,4 +9,4 @@ List of covered sections:
 * [Method Naming](../vuejs/method-naming.md)
 * [Variable Naming](../vuejs/variable-naming.md)
 
-Missing something? Please contribute here by reading [this guide](../docs/CONTRIBUTING.html).
+Missing something? Please contribute here by reading [this guide](../docs/CONTRIBUTING.md).
