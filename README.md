@@ -8,7 +8,7 @@ We accept recommendations from all enthusiastic who care about the quality. The 
 [![Join the chat at https://gitter.im/naming_convention/community](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/naming_convention/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Naming Convention topic list:
-* [C#](../c#/)
+* [C#](../csharp/)
 * [Git](../git/)
 * [Java](../java/)
 * [PHP](../php/)
