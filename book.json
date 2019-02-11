@@ -12,7 +12,7 @@
         "branch": "master"
     },
     "sitemap-general": {
-      "prefix": "https://namingconventions.org/"
+      "prefix": "https://namingconvention.org/"
     },
     "githubcontributors": {
       "githubOwner": "naming-convention",
