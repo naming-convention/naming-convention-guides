@@ -15,6 +15,7 @@
   * [Branch Naming](git/branch-naming.md)
   * [Commit Message Naming](git/commit-message-naming.md)
   * [Pull Request Naming](git/pull-request-naming.md)
+  * [Tag Naming](git/tag-naming.md)
 * [Java](java/README.md)
   * [Class Naming](java/class-naming.md)
   * [Interface Naming](java/interface-naming.md)
