@@ -1,5 +1,7 @@
 # Python Naming Convention
 
+The style guide for python is based on [Guido’s ](https://www.python.org/doc/essays/styleguide/)naming convention recommendations.
+
 List of covered sections:
 
 * [Class Naming](../python/class-naming.md)
@@ -11,9 +13,7 @@ List of covered sections:
 * [Exception Naming](//../python/exception-naming.md)
 * [Underscore](//../python/underscore.md)
 
-#### Summary of the above files: {#3164-guidelines-derived-from-guidos-recommendations}
-
-The style guide for python is based on [Guido’s ](https://www.python.org/doc/essays/styleguide/)naming convention recommendations.
+#### TL;DR {#3164-guidelines-derived-from-guidos-recommendations}
 
 | Type | Public | Internal |
 | :--- | :--- | :--- |
