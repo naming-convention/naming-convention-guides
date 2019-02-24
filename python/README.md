@@ -9,8 +9,9 @@ List of covered sections:
 * [Variable Naming](../python/variable-naming.md)
 * [Package Naming](/../python/package-naming.md "Python Package Naming")
 * [Exception Naming](//../python/exception-naming.md)
+* [Underscore](//../python/underscore.md)
 
-#### Summary: {#3164-guidelines-derived-from-guidos-recommendations}
+#### Summary of the above files: {#3164-guidelines-derived-from-guidos-recommendations}
 
 The style guide for python is based on [Guido’s ](https://www.python.org/doc/essays/styleguide/)naming convention recommendations.
 
@@ -23,8 +24,8 @@ The style guide for python is based on [Guido’s ](https://www.python.org/doc/e
 | Functions | `lower_with_under()` | `_lower_with_under()` |
 | Global/Class Constants | `CAPS_WITH_UNDER` | `_CAPS_WITH_UNDER` |
 | Global/Class Variables | `lower_with_under` | `_lower_with_under` |
-| Instance Variables | `lower_with_under` | `_lower_with_under`\(protected\) |
-| Method Names | `lower_with_under()` | `_lower_with_under()`\(protected\) |
+| Instance Variables | `lower_with_under` | \_lower\_with\_under |
+| Method Names | `lower_with_under()` | `_lower_with_under()` |
 | Function/Method Parameters | `lower_with_under` |  |
 | Local Variables | `lower_with_under` |  |
 
