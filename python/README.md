@@ -8,6 +8,7 @@ List of covered sections:
 * [Module Naming](../python/module-naming.md)
 * [Variable Naming](../python/variable-naming.md)
 * [Package Naming](/../python/package-naming.md "Python Package Naming")
+* [Exception Naming](//../python/exception-naming.md)
 
 #### Summary: {#3164-guidelines-derived-from-guidos-recommendations}
 
