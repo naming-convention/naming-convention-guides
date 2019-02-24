@@ -4,7 +4,7 @@
   * [Contribute Guide](docs/CONTRIBUTING.md)
   * [FAQ](docs/faq.md)
   * [Lexicon](docs/lexicon.md)
-* [C#](csharp/README.md)
+* [C\#](csharp/README.md)
   * [Argument Naming](csharp/argument-naming.md)
   * [Class Naming](csharp/class-naming.md)
   * [Enum Naming](csharp/enum-naming.md)
@@ -45,3 +45,6 @@
   * [Method Naming](python/method-naming.md)
   * [Variable Naming](python/variable-naming.md)
   * [Constant Naming](python/constant-naming.md)
+  * [Package Naming](python/file-naming.md)
+  * [Exception\( Error \) Naming](python/exception-naming.md)
+
