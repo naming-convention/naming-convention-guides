@@ -13,7 +13,7 @@ class Car:
 
 ## Private Class
 
-Python does not support privacy directly. This naming convention is used as a weak internal use indicator only.
+Python does not support privacy directly. This naming convention is used as a weak internal use indicator.
 
 * Should follow the above naming conventions
 * Should use a leading underscore \(\_\) to distinguish between "public" and "private" classes

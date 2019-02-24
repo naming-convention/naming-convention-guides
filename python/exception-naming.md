@@ -2,8 +2,8 @@
 
 ## PascalCase
 
-* Exceptions should be classes and hence the class naming convention should be used here.
-* Add a suffix "Error" on your exception names provided the exception is actually an error.
+* Exceptions should be classes and hence the class naming convention should be used.
+* Add a suffix "Error" on your exception names, provided the exception is actually an error.
 * Avoid acronyms and abbreviations
 
 ```python

@@ -1,6 +1,4 @@
-The underscore \(\_\) is used for just snake-case variables/functions in most programming languages but has special meaning in Python. 
-
-
+The underscore \(\_\)  has special meaning in Python.
 
 ### For ignoring values:
 
@@ -21,11 +19,9 @@ for _, val in list_of_tuples: # [(1,2),(3,4),(5,6)]
     print(val) # output - 3
 ```
 
-
-
 ### \_single\_leading\_underscore
 
-This convention is used for declaring private variables, functions, methods and classes. Anything with this convention are ignored in `from module import *`. 
+This convention is used for declaring private variables, functions, methods and classes. Anything with this convention are ignored in `from module import *`.
 
 ### single\_trailing\_underscore\_
 
