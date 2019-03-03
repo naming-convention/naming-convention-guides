@@ -1,9 +1,9 @@
-# Python module Convention &gt; Package Naming
+# Python module Convention > Package Naming
 
-## snake\_case
+## snake_case
 
 * Should be in lowercase.
-* If the name contains multiple words, an underscore \(\_\) should separate it.E.g. expression\_engine
+* If the name contains multiple words, an underscore (_) should separate it.E.g. expression_engine
 * The name should resonate with the class or methods inside the module
 
 ```python

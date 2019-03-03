@@ -1,9 +1,9 @@
-# Python Naming Convention &gt; Constant Naming
+# Python Naming Convention > Constant Naming
 
-## SCREAMING\_SNAKE\_CASE
+## SCREAMING_SNAKE_CASE
 
 * Should be all uppercase letters e.g. AGE, HEIGHT
-* If the name contains multiple words, it should be separated by underscores \(\_\) such as DAYS\_IN\_MONTH
+* If the name contains multiple words, it should be separated by underscores (_) such as DAYS_IN_MONTH
 * May contain digits but not as the first letter
 
 ```python

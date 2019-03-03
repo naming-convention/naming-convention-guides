@@ -1,4 +1,4 @@
-# Python Naming Convention &gt; Exception Naming
+# Python Naming Convention > Exception Naming
 
 ## PascalCase
 
