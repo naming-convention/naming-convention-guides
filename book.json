@@ -4,7 +4,8 @@
     "github-edit",
     "sitemap-general",
     "smart-nav-collapse",
-    "githubcontributors"
+    "githubcontributors",
+    "link-fix"
   ],
   "pluginsConfig": {
     "github-edit": {
