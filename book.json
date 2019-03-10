@@ -24,7 +24,8 @@
     "contributors-each-page": {
       "owner": "naming-convention",
       "repository": "naming-convention-guides",
-      "title": "Contributors"
+      "title": "Contributors",
+      "excluded": ["README.md"]
     }
   },
   "styles": {
