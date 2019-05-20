@@ -27,3 +27,16 @@ Implement proper authorization for each service on development phase to validate
 
 Access right management is used to check proper authorization to access an API by an employee or the employer.
 ```
+
+## Conventional Commits
+
+Commit messages **MAY** use [Conventional Commits](https://www.conventionalcommits.org/en/) format. It provides guidelines to create a better commit history log, making easier to have automated tasks around it (e.g. automated changelogs). Commits would follow the format `<type>[optional scope]: <description>`, where `<type>` might be `feat`/`fix`/`chore`/`docs` etc. and breaking changes are indicated on the beginning of the optional body or footer section. 
+
+Example:
+```
+git commit -m "feat(survey): add nps survey to the home page
+
+BREAKING CHANGE:  `survey` objects in xml file have been re-used in the global configurations.
+```
+
+Please refer to [Conventional Commits docs](https://www.conventionalcommits.org/en/) for more details

@@ -12,6 +12,7 @@ We accept recommendations from all enthusiastic who care about the quality. The 
 * [Git](../git/)
 * [Java](../java/)
 * [PHP](../php/)
+* [Python](../python/)
 * [VueJS](../vuejs/)
 
 ## Contributions

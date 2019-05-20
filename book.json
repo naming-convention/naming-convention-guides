@@ -4,7 +4,9 @@
     "github-edit",
     "sitemap-general",
     "smart-nav-collapse",
-    "githubcontributors"
+    "githubcontributors",
+    "link-fix",
+    "contributors-each-page"
   ],
   "pluginsConfig": {
     "github-edit": {
@@ -18,6 +20,12 @@
       "githubOwner": "naming-convention",
       "githubRepository": "naming-convention-guides",
       "contributorWidth": "40px"
+    },
+    "contributors-each-page": {
+      "owner": "naming-convention",
+      "repository": "naming-convention-guides",
+      "title": "Contributors",
+      "excluded": ["README.md"]
     }
   },
   "styles": {
