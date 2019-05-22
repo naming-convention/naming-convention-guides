@@ -8,16 +8,16 @@ We accept recommendations from all enthusiastic who care about the quality. The 
 [![Join the chat at https://gitter.im/naming_convention/community](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/naming_convention/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Naming Convention topic list:
-* [C#](../csharp/)
-* [Git](../git/)
-* [Java](../java/)
-* [PHP](../php/)
-* [Python](../python/)
-* [VueJS](../vuejs/)
+* [C#](/csharp/)
+* [Git](/git/)
+* [Java](/java/)
+* [PHP](/php/)
+* [Python](/python/)
+* [VueJS](/vuejs/)
 
 ## Contributions
 This project exists thanks to all our contributors:
 {% GitHubContributors %}
 {% endGitHubContributors %}
 
-Help us create the better conventions with your contributions. Simply read our [Contribution Guide](https://namingconvention.org/docs/CONTRIBUTING.html) and get started!
+Help us create the better conventions with your contributions. Simply read our [Contribution Guide](https://namingconvention.org/docs/CONTRIBUTING.md) and get started!
