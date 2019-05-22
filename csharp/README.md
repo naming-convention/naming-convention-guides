@@ -1,10 +1,10 @@
 # C# Naming Convention
 List of covered sections:
-* [Argument Naming](../csharp/argument-naming.html)
+* [Argument Naming](../csharp/argument-naming.md)
 * [Class Naming](../csharp/class-naming.md)
-* [Enum Naming](../csharp/enum-naming.html)
-* [Interface Naming](../csharp/interface-naming.html)
-* [Method Naming](../csharp/method-naming.html)
-* [Variable Naming](../csharp/variable-naming.html)
+* [Enum Naming](../csharp/enum-naming.md)
+* [Interface Naming](../csharp/interface-naming.md)
+* [Method Naming](../csharp/method-naming.md)
+* [Variable Naming](../csharp/variable-naming.md)
 
-Missing something? Please contribute here by reading [this guide](../docs/CONTRIBUTING.html).
+Missing something? Please contribute here by reading [this guide](../docs/CONTRIBUTING.md).

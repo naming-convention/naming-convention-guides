@@ -35,6 +35,6 @@ Dotted Case (or illustratively as dotted.case) is a writing convention to create
 
 Example: ```java.util.collections```
 
-Missing something? Please contribute by reading [this guide](../docs/CONTRIBUTING.html).
+Missing something? Please contribute by reading [this guide](../docs/CONTRIBUTING.md).
 
 
