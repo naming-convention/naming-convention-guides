@@ -11,6 +11,7 @@
   * [Interface Naming](csharp/interface-naming.md)
   * [Method Naming](csharp/method-naming.md)
   * [Variable Naming](csharp/variable-naming.md)
+  * [Namespaces Naming](csharp/namespaces-naming.md)
 * [Git](git/README.md)
   * [Branch Naming](git/branch-naming.md)
   * [Commit Message Naming](git/commit-message-naming.md)
