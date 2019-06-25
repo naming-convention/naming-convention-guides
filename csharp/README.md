@@ -6,6 +6,6 @@ List of covered sections:
 * [Interface Naming](../csharp/interface-naming.md)
 * [Method Naming](../csharp/method-naming.md)
 * [Variable Naming](../csharp/variable-naming.md)
-* [Namespace Naming](../csharp/namespaces-naming.md)
+* [Namespaces Naming](../csharp/namespaces-naming.md)
 
 Missing something? Please contribute here by reading [this guide](../docs/CONTRIBUTING.md).
