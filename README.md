@@ -20,4 +20,4 @@ This project exists thanks to all our contributors:
 {% GitHubContributors %}
 {% endGitHubContributors %}
 
-Help us create the better conventions with your contributions. Simply read our [Contribution Guide](https://namingconvention.org/docs/CONTRIBUTING.md) and get started!
+Help us create the better conventions with your contributions. Simply read our [Contribution Guide](/docs/CONTRIBUTING.md) and get started!
