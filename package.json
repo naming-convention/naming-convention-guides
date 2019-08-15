@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gitbook serve",
-    "build": "gitbook build && sw-precache --config=sw.config.js --verbose",
-    "install": "gitbook install"
+    "build": "gitbook build && sw-precache --config=sw.config.js --verbose"
   },
   "author": "Naming Convention Foundation",
   "license": "Apache-2.0",
