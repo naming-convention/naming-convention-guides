@@ -10,6 +10,7 @@
 
 ```php
 <?php
-$emailAddress = 'John Doe';
+$fullName = 'John Doe';
+$emailAddress = 'john.doe@domain.com';
 ?>
 ```
