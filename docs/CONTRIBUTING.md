@@ -40,7 +40,7 @@ Please feel free to open a [github issue](https://github.com/wpveda/book/issues)
 
 # Instruction For Running Locally
 
-1. Install Node.js on your machine: [follow this on ubuntu](https://rtcamp.com/tutorials/nodejs/node-js-npm-install-ubuntu/) or use `brw install nodejs npm` on mac.
+1. Install Node.js on your machine: [follow this on ubuntu](https://rtcamp.com/tutorials/nodejs/node-js-npm-install-ubuntu/) or use `brew install nodejs npm` on mac.
 2. Fork [https://github.com/naming-convention/naming-convention-guides/](https://github.com/naming-convention/naming-convention-guides/) on GitHub.
 3. Clone your forked repo -  `git clone <forked-repo-url>`
 4. Change directory to gitbook - `cd naming-convention-guides` \(assuming your forked repo is also named as `naming-convention-guides`\)
