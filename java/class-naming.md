@@ -6,8 +6,7 @@
 - Avoid acronyms and abbreviations
 
 ```java
-public class Company
-{  
+public class Company {  
     ...
 }  
 ```

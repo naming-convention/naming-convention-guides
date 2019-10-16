@@ -6,10 +6,8 @@
 - If the name contains multiple words, start it with a lowercase letter followed by an uppercase letter e.g. getJsonParser()
 
 ```java
-public class Company
-{  
-    void getEmployee()
-    {
+public class Company {  
+    void getEmployee() {
         ...
     }
 }  

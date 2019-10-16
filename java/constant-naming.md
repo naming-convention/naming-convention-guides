@@ -6,8 +6,7 @@
 - It may contain digits but not as the first letter
 
 ```java
-class Product
-{   
+class Product {   
     static final int MAX_TEMPERATURE = 36;  
     ...
 } 

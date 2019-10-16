@@ -6,8 +6,7 @@
 
 ```java
 package java.awt.event;
-class Car  
-{  
+class Car {  
     ...
 }
 ```

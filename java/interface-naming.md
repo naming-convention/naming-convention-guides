@@ -5,8 +5,7 @@
 - Avoid acronyms and abbreviations
 
 ```java
-interface Bookable
-{  
+interface Bookable {  
     ...
 }  
 ```
