@@ -8,8 +8,7 @@
 
 
 ```java
-class Student
-{  
+class Student {  
     int age;
     ...
 }  
