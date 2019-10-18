@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 # Python Naming Convention > Class Naming
+=======
+# Ruby Naming Convention > Class Naming
+>>>>>>> Stashed changes
 
 ## PascalCase
 
@@ -6,6 +10,7 @@
 * Preferably a noun e.g. Car, Bird, MountainBike
 * Avoid acronyms and abbreviations
 
+<<<<<<< Updated upstream
 ```python
 class Car:
     ...
@@ -25,3 +30,9 @@ class _Car: # private class
 
 
 
+=======
+```ruby
+class Car
+    ...
+```
+>>>>>>> Stashed changes
