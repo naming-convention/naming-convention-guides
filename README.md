@@ -13,6 +13,7 @@ We accept recommendations from all enthusiastic who care about the quality. The 
 * [Java](/java/)
 * [PHP](/php/)
 * [Python](/python/)
+* [Ruby](/ruby/)
 * [VueJS](/vuejs/)
 
 ## Contributions
