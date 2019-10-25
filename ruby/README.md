@@ -1,15 +1,15 @@
 # Ruby Naming Convention
 
-The style guide for Ruby is based on [Guido’s ](https://www.Ruby.org/doc/essays/styleguide/)naming convention recommendations.
+The style guide for Ruby is based on [Guido’s ](https://www.ruby.org/doc/essays/styleguide/)naming convention recommendations.
 
 List of covered sections:
 
-* [Class Naming](../Ruby/class-naming.md)
-* [Constant Naming](../Ruby/constant-naming.md)
-* [Module Naming](../Ruby/file-naming.md)
-* [Method Naming](../Ruby/method-naming.md)
-* [Package Naming](../Ruby/module-naming.md)
-* [Variable Naming](../Ruby/variable-naming.md)
+* [Class Naming](../ruby/class-naming.md)
+* [Constant Naming](../ruby/constant-naming.md)
+* [Module Naming](../ruby/file-naming.md)
+* [Method Naming](../ruby/method-naming.md)
+* [Package Naming](../ruby/module-naming.md)
+* [Variable Naming](../ruby/variable-naming.md)
 
 #### TL;DR
 
