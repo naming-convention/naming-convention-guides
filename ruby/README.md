@@ -1,7 +1,5 @@
 # Ruby Naming Convention
 
-The style guide for Ruby is based on [Guido’s ](https://www.ruby.org/doc/essays/styleguide/)naming convention recommendations.
-
 List of covered sections:
 
 * [Class Naming](../ruby/class-naming.md)
