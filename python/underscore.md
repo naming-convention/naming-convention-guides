@@ -1,4 +1,4 @@
-The underscore (_)  has special meaning in Python.
+The underscore (\_)  has special meaning in Python.
 
 ### For ignoring values:
 
@@ -19,7 +19,7 @@ for _, val in list_of_tuples: # [(1,2),(3,4),(5,6)]
     print(val) # output - 3
 ```
 
-### _single_leading_underscore
+### \_single_leading_underscore
 
 This convention is used for declaring private variables, functions, methods and classes. Anything with this convention are ignored in `from module import *`.
 
@@ -32,15 +32,15 @@ class_ = dict(n=50, boys=25, girls=25)
 # avoiding clash with the class keyword
 ```
 
-### __double_leading_underscore
+### \__double_leading_underscore
 
 Double underscore will mangle the attribute names of a class to avoid conflicts of attribute names between classes. Python will automatically add "\_ClassName" to the front of the attribute name which has a double underscore in front of it.
 
 [Read more](https://docs.python.org/3/tutorial/classes.html#private-variables)
 
-### __double_leading_and_trailing_underscore\_\_
+### \__double_leading_and_trailing_underscore\_\_
 
-This convention is used for special variables or ( magic )methods  such as__init_\_, __len\__. These methods provides special syntactic features.
+This convention is used for special variables or ( magic )methods  such as`__init__`, `__len__`. These methods provides special syntactic features.
 
 ```
 class FileObject:
