@@ -1,4 +1,4 @@
-# C# Naming Convention > Enum Naming
+# C# Naming Convention > Constant Naming
 
 ## PascalCase
 - Begin with an uppercase letter
