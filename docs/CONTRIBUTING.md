@@ -6,7 +6,7 @@ We would extremely appreciate your pull requests. Whether you want to add a new 
 
 ## Important Info on Pull Requests
 
-All contributors must understand that naming convention is a highly opinionted subject. This means, in some cases, the pull request might get rejected. We welcome an open and constructuve discussion on every topic. We request you to please be patience and polite when contributing and involving in the discussions.
+All contributors must understand that naming convention is a highly opinionated subject. This means, in some cases, the pull request might get rejected. We welcome an open and constructive discussion on every topic. We request you to please be patient and polite when contributing and involving in the discussions.
 
 ## Pull Request Rules
 
@@ -18,7 +18,7 @@ Before making a pull request, make sure that your PR complies with the rules bel
 
 ## Minor Edits
 
-For minor edits (e.g. fixing formatting, typo, etc.), we recommend using `Edit on GitHub` link on every page which redirects you to the respective page on GitHub. It it's your first time editing, Github may ask you to fork the repo. After you apply the changes, please create a pull request.
+For minor edits (e.g. fixing formatting, typo, etc.), we recommend using `Edit on GitHub` link on every page which redirects you to the respective page on GitHub. If it's your first time editing, Github may ask you to fork the repo. After you apply the changes, please create a pull request.
 
 
 ## Major Edits
