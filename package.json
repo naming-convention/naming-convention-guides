@@ -13,7 +13,7 @@
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-contributors-each-page": "^1.0.1",
-    "gitbook-plugin-github-edit": "^1.1.0",
+    "gitbook-plugin-github-edit": "^1.1.1",
     "gitbook-plugin-githubcontributors": "^0.2.1",
     "gitbook-plugin-link-fix": "^1.0.1",
     "gitbook-plugin-sitemap-general": "^0.1.1",
