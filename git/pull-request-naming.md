@@ -4,7 +4,7 @@ Consists of two parts:
 - Title: Short informative summary of the pull request
 - Description: More detailed explanatory text describing the PR for the reviewer
 
-## Subject:
+## Title:
 - Short and descriptive summary
 - Start with corresponding ticket/story id (e.g. from Jira, GitHub issue, etc.)
 - Should be capitalized and written in imperative present tense
