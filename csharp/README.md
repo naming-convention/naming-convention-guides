@@ -2,7 +2,7 @@
 List of covered sections:
 * [Argument Naming](../csharp/argument-naming.md)
 * [Class Naming](../csharp/class-naming.md)
-* [Enum Naming](../csharp/enum-naming.md)
+* [Constant Naming](../csharp/constant-naming.md)
 * [Interface Naming](../csharp/interface-naming.md)
 * [Method Naming](../csharp/method-naming.md)
 * [Variable Naming](../csharp/variable-naming.md)
