@@ -9,7 +9,6 @@ List of covered sections:
 * [Method Naming](../python/method-naming.md)
 * [Module Naming](../python/module-naming.md)
 * [Variable Naming](../python/variable-naming.md)
-* [Package Naming](../python/package-naming.md "Python Package Naming")
 * [Exception Naming](../python/exception-naming.md)
 * [Underscore](../python/underscore.md)
 
