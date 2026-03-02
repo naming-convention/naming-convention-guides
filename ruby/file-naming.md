@@ -1,13 +1,15 @@
-# Ruby module Convention > File Naming
+# Ruby File Convention > File Naming
 
 ## snake_case
 
 * Should be in lowercase.
-* If the name contains multiple words, an underscore (_) should separate it.E.g. expression_engine
-* The name should resonate with the class or methods inside the module
+* If the name contains multiple words, an underscore (_) should separate it.E.g. expression_engine.
+* Should match the name of the class or module it contains.
 
 ```ruby
-require './application_record'
+# This class is in the file named 'car.rb'
+
 class Car
-    ...
+  # ...
+end
 ```
