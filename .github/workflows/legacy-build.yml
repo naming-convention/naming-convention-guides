@@ -1,0 +1,39 @@
+name: Legacy Build
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  legacy-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build in legacy Docker environment
+        run: ./scripts/build-legacy.sh
+
+      - name: Upload legacy build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: legacy_build
+          path: legacy_build
+
+      - name: Commit and push legacy build
+        if: github.ref == 'refs/heads/master' && github.actor != 'github-actions[bot]'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain legacy_build)" ]; then
+            git add legacy_build
+            git commit -m "ci: update legacy build artifact"
+            git push origin master
+          else
+            echo "No changes in legacy_build; skipping commit."
+          fi

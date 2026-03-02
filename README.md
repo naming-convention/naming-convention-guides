@@ -22,3 +22,21 @@ This project exists thanks to all our contributors:
 {% endGitHubContributors %}
 
 Help us create the better conventions with your contributions. Simply read our [Contribution Guide](/docs/CONTRIBUTING.md) and get started!
+
+## Legacy build
+Use the legacy Dockerized build to generate static output with an older Node runtime compatible with GitBook.
+
+Local usage:
+
+```bash
+./scripts/build-legacy.sh
+```
+
+This creates or refreshes `legacy_build/` from the containerized `_book` output and writes `legacy_build/metadata.txt` with build timestamp and commit SHA.
+
+CI usage:
+
+- GitHub Actions workflow: `.github/workflows/legacy-build.yml`
+- Triggers on `workflow_dispatch` and pushes to `master`
+- Uploads `legacy_build` as an artifact
+- On `master` (non-bot runs), commits and pushes `legacy_build` back only when contents changed
