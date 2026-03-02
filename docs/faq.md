@@ -1,17 +1,17 @@
 # FAQ
 
-**Why this book is created?**
+**Why was this book created?**
 
-Our mission is to make namings more clean, readable, meaninful and consistent. We believe that certain best practices can be applied to the achieve a higher quality.
+Our mission is to make names more clean, readable, meaningful and consistent. We believe that certain best practices can be applied to achieve a higher level of quality.
 
-**What is org structure?**
+**What is the org structure?**
 
-This Naming Convention Guide is currently being managed by the Naming Convention Foundation - a virtual organization on GitHub - https://github.com/naming-convention. You can find the members of the organization in the sidebar.
+This naming convention guide is currently being managed by the Naming Convention Foundation - [a virtual organization on GitHub](https://github.com/naming-convention). You can find the members of the organization in the sidebar.
 
-**How to become member?**
+**How do I become member?**
 
-Start contributing to this book as well as other Naming Convention projects - https://github.com/naming-convention
+Start contributing to this book as well as [other Naming Convention projects](https://github.com/orgs/naming-convention/repositories).
 
 **Who is behind this book?**
 
-A community who loves the consistency, quality and best practices.
+A community who love consistency, quality and best practices.
